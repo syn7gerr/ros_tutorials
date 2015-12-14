@@ -2,6 +2,12 @@
 
 This is a ROS tutorial set intended to describe some useful topics for working with the BeagleBone Black
 
+## Tutorial List
+
+1. Configuration Tutorial - Using yaml Files with roslaunch for Node Configuration
+	config_tutorial.odt
+	/config_tutorial/
+
 ## Prerequisites
 
 This package has been tested and confirmed with the following basic prerequisites:
