@@ -2,8 +2,6 @@
 
 This is a ROS tutorial set intended to describe some useful topics for working with the BeagleBone Black
 
-# Installation Instructions
-
 ## Prerequisites
 
 This package has been tested and confirmed with the following basic prerequisites:
