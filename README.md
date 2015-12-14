@@ -1,4 +1,4 @@
-# khan_tutorials
+# ros_tutorials
 
 This is a ROS tutorial set intended to describe some useful topics for working with the BeagleBone Black
 
