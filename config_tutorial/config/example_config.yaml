@@ -1,0 +1,7 @@
+first_node:
+  data_1: "This is first_node data_1"
+  data_2: "This is first_node data_2"
+second_node:
+  data_1: "This is second_node data_1"
+  data_2: "This is second_node data_2"
+

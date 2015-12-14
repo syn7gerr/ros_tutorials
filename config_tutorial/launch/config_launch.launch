@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<launch>
+  <!-- Loading the configuration file for our example node -->
+  <rosparam command="load" file="$(find config_tutorial)/config/example_config.yaml" ns="/operating_namespace/" />
+  <!-- End of configuration file loading -->
+
+  <!-- Loading example node instances -->
+  <node pkg="config_tutorial" type="example_node.py" name="first_node" ns="/operating_namespace/" >
+    <param name="channel" value="/output_namespace/first_node/output" />
+  </node>
+
+  <node pkg="config_tutorial" type="example_node.py" name="second_node" ns="/operating_namespace/" >
+    <param name="channel" value="/output_namespace/second_node/output" />
+  </node>
+  <!-- End example node loading -->
+
+</launch>
