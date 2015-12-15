@@ -7,8 +7,15 @@ This is a ROS tutorial set intended to describe some useful topics for working w
 1. Configuration Tutorial - Using yaml Files with roslaunch for Node Configuration
 
 	config_tutorial.odt
-	
+
 	/config_tutorial/
+
+2. Python IO Tutorial - Python I/O interface for Beaglebone Black
+
+	python_io_tutorial.odt
+
+	/python_io_tutorial/
+
 
 ## Prerequisites
 
